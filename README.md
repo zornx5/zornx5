@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm ZornX5</h1>
 <h3 align="center">A passionate software developer from China</h3>
 
-- 🔭 I’m currently working on [OFBiz](https://ofbiz.apache.org/developers.html)
+- 🔭 I’m currently working on [Temu](https://www.temu.com/about-temu.html)
 
-- 🌱 I’m currently learning **OFBiz,Hadoop,Elasticsearch**
-
-- 👯 I’m looking to collaborate on [certificate-helper](https://github.com/zornx5/certificate-helper)
+- 🌱 I’m currently learning **Search, recommendations, advertising**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zornx5?tab=repositories](https://github.com/zornx5?tab=repositories)
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **zornx5@gmail.com**
 
-- 📄 Know about my experiences [https://www.agree.com.cn](https://www.agree.com.cn)
+- 📄 Know about my experiences [Temu](https://www.temu.com/about-temu.html)
 
 - ⚡ Fun fact **One hand hello, One hand world**
 
